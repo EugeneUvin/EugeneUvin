@@ -1,4 +1,10 @@
-### Hi there 👋
+### Not much is here, but hopefully it's coming
+
+Twitter: [@eugeneuvin](https://twitter.com/eugeneuvin)
+
+Other people's work saved: 
+
+* [CSVPad](https://github.com/EugeneUvin/CSVPad) is an old CSV editing progam written in Delphi. It is very lightweight and can be handy if you need to work with CSV. However,  I've found few [bugs](https://github.com/EugeneUvin/CSVPad/issues). If you feel like remembering Paskal, feel free to PR :-)
 
 <!--
 **EugeneUvin/EugeneUvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
