@@ -1,4 +1,4 @@
-### Not much is here, but hopefully it's coming
+### Not much is here, but hopefully it is coming
 
 Twitter: [@eugeneuvin](https://twitter.com/eugeneuvin)
 
